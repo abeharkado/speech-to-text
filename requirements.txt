@@ -1,2 +1,1 @@
-yt-dlp
-openai-whisper
+pip install yt-dlp openai-whisper
